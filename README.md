@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Yurius007
+- 🤫 Also known as Spanix1ws & Yurius2228
 - 👀 I’m interested in python backend
 - 🌱 I’m currently hitting the griddy for Ukraine
 - 💞️ I’m looking to collaborate with @BoryslavKurinnyi <3
