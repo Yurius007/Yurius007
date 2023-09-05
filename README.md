@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Yurius007
-- 🤫 Also known as Spanix1ws & Yurius
+- 🤫 Also known as Spanix1ws
 - 👀 I’m interested into web development
 - 🌱 I’m currently hitting the griddy for Ukraine
-- 💞️ I’m looking to collaborate with @BoryslavKurinnyi <3
 - 📫 My email rybalkayura5@gmail.com
 
 <!---
